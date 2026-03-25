@@ -1,0 +1,132 @@
+[
+    {
+        "K": 12,
+        "Inertia (WCSS)": 16893.224609375,
+        "Clusters_ge_50": 12,
+        "Clusters_ge_4": 12,
+        "Clusters_ge_3": 12,
+        "Clusters_ge_2": 12,
+        "Clusters_eq_1": 0,
+        "Time_sec": 1.642472267150879
+    },
+    {
+        "K": 80,
+        "Inertia (WCSS)": 13435.7578125,
+        "Clusters_ge_50": 79,
+        "Clusters_ge_4": 79,
+        "Clusters_ge_3": 79,
+        "Clusters_ge_2": 80,
+        "Clusters_eq_1": 0,
+        "Time_sec": 21.095139503479004
+    },
+    {
+        "K": 100,
+        "Inertia (WCSS)": 13059.7734375,
+        "Clusters_ge_50": 100,
+        "Clusters_ge_4": 100,
+        "Clusters_ge_3": 100,
+        "Clusters_ge_2": 100,
+        "Clusters_eq_1": 0,
+        "Time_sec": 32.05660891532898
+    },
+    {
+        "K": 500,
+        "Inertia (WCSS)": 11095.2470703125,
+        "Clusters_ge_50": 409,
+        "Clusters_ge_4": 492,
+        "Clusters_ge_3": 494,
+        "Clusters_ge_2": 499,
+        "Clusters_eq_1": 1,
+        "Time_sec": 165.48870086669922
+    },
+    {
+        "K": 1000,
+        "Inertia (WCSS)": 10324.3896484375,
+        "Clusters_ge_50": 309,
+        "Clusters_ge_4": 965,
+        "Clusters_ge_3": 980,
+        "Clusters_ge_2": 986,
+        "Clusters_eq_1": 14,
+        "Time_sec": 284.07037329673767
+    },
+    {
+        "K": 1500,
+        "Inertia (WCSS)": 9873.7939453125,
+        "Clusters_ge_50": 175,
+        "Clusters_ge_4": 1399,
+        "Clusters_ge_3": 1434,
+        "Clusters_ge_2": 1463,
+        "Clusters_eq_1": 37,
+        "Time_sec": 451.5635085105896
+    },
+    {
+        "K": 2000,
+        "Inertia (WCSS)": 9535.767578125,
+        "Clusters_ge_50": 100,
+        "Clusters_ge_4": 1794,
+        "Clusters_ge_3": 1861,
+        "Clusters_ge_2": 1926,
+        "Clusters_eq_1": 74,
+        "Time_sec": 581.5760765075684
+    },
+    {
+        "K": 2500,
+        "Inertia (WCSS)": 9243.298828125,
+        "Clusters_ge_50": 49,
+        "Clusters_ge_4": 2138,
+        "Clusters_ge_3": 2255,
+        "Clusters_ge_2": 2375,
+        "Clusters_eq_1": 125,
+        "Time_sec": 741.3082535266876
+    },
+    {
+        "K": 3000,
+        "Inertia (WCSS)": 8991.0283203125,
+        "Clusters_ge_50": 35,
+        "Clusters_ge_4": 2469,
+        "Clusters_ge_3": 2646,
+        "Clusters_ge_2": 2825,
+        "Clusters_eq_1": 175,
+        "Time_sec": 864.9901328086853
+    },
+    {
+        "K": 3500,
+        "Inertia (WCSS)": 8760.0146484375,
+        "Clusters_ge_50": 11,
+        "Clusters_ge_4": 2756,
+        "Clusters_ge_3": 3006,
+        "Clusters_ge_2": 3263,
+        "Clusters_eq_1": 237,
+        "Time_sec": 1027.722737789154
+    },
+    {
+        "K": 4000,
+        "Inertia (WCSS)": 8550.2529296875,
+        "Clusters_ge_50": 4,
+        "Clusters_ge_4": 2979,
+        "Clusters_ge_3": 3271,
+        "Clusters_ge_2": 3630,
+        "Clusters_eq_1": 370,
+        "Time_sec": 1153.3706953525543
+    },
+    {
+        "K": 4500,
+        "Inertia (WCSS)": 8341.9423828125,
+        "Clusters_ge_50": 2,
+        "Clusters_ge_4": 3211,
+        "Clusters_ge_3": 3595,
+        "Clusters_ge_2": 4033,
+        "Clusters_eq_1": 467,
+        "Time_sec": 1331.6887564659119
+    },
+    {
+        "K": 5000,
+        "Inertia (WCSS)": 8144.7607421875,
+        "Clusters_ge_50": 3,
+        "Clusters_ge_4": 3417,
+        "Clusters_ge_3": 3901,
+        "Clusters_ge_2": 4446,
+        "Clusters_eq_1": 554,
+        "Time_sec": 1448.8342912197113
+    }
+]
