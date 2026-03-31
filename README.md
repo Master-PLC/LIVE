@@ -9,6 +9,9 @@
 - **UIC (Uniform Image Contexts)**: Evaluates content confusion in similar images
 - **DIC (Diverse Image Contexts)**: Evaluates context interference across different images
 
+> **📢 Important Notice for Reviewers:** > Detailed dataset statistics, K-means clustering analysis, full LLM prompting templates, and extended experimental results can be found in our **[Supplementary Material (PDF)](./LIVE_Supplementary_Material.pdf)**. 
+*(Note: adjust the path `./LIVE_Supplementary_Material.pdf` if you place it in a different folder like `./docs/`)*
+
 ## 🌟 Key Features
 
 - **Multi-Image Scenarios**: 488 scenarios (242 UIC + 246 DIC) with 32K+ yes/no questions
